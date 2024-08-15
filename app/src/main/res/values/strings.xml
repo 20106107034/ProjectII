@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Attendence Management</string>
+    <string name="title_activity_attendence_using">AttendenceUsing</string>
+    <string name="title_activity_attendence_management">title</string>
+    <string name="title_activity_by_registration">ByRegistration</string>
+    <string name="title_activity_for_all">ForAll</string>
+    <string name="title_activity_specific_date">SpecificDate</string>
+    <string name="title_activity_result_page">ResultPage</string>
+    <string name="title_activity_result_page2_all">ResultPage2All</string>
+</resources>
